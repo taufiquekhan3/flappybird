@@ -1,0 +1,16 @@
+* {
+    display: block;
+    margin: auto;
+
+}
+
+
+#board {
+    background-image: url(./th\ \(2\).jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: hidden;
+}
